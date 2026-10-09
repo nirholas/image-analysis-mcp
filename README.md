@@ -156,3 +156,7 @@ The endpoint is rate-limited per IP. To raise your limit to the per-user tier, s
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/image-analysis-mcp&type=Date)](https://www.star-history.com/#nirholas/image-analysis-mcp&Date)
