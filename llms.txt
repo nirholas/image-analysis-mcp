@@ -1,0 +1,28 @@
+# image-analysis-mcp
+
+> Image analysis and visual understanding tools for AI agents: describe, detect, extract from any image.
+
+image-analysis-mcp is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/README.md): install, usage and reference
+- [Install](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/README.md#install)
+- [Quick start](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/README.md#quick-start)
+- [Tools](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/README.md#tools)
+- [Example](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/README.md#example)
+- [Pricing & auth](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/README.md#pricing-auth)
+- [Requirements](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/README.md#requirements)
+- [Links](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/README.md#links)
+- [License](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/image-analysis-mcp/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/image-analysis-mcp)
+- [Issues](https://github.com/nirholas/image-analysis-mcp/issues)
+- [Discussions](https://github.com/nirholas/image-analysis-mcp/discussions)
+- [Homepage](https://three.ws)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
